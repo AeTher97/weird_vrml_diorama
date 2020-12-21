@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Dysk Google/AGH/Systemy Programowania w Grafice/generator/vrml11.cpp
+stdio.h
+-
+math.h
+-
+time.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+
